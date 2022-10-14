@@ -1,0 +1,17 @@
+baseURL: ""
+languageCode: fr-fr
+title: Blog 6adm.in
+theme: PaperMod
+params:
+    homeInfoParams:
+        Title: Bienvenue
+        Content: Ce site a pour vocation de me servir de pense-bête. J’espère qu’à vous aussi, il vous sera utile …
+    socialIcons:
+        - name: Github
+          url: "https://github.com/sixadmin"
+        - name: gitlab
+          url: "https://gitlab.com/ModernMenu"
+        - name: cv
+          url: "https://6adm.in"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/richard-cruz-7a978687/"
